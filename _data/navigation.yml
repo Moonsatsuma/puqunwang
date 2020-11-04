@@ -6,8 +6,8 @@
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Publications"
+  url: "/publications/"
   side: left
   dropdown:
   - title: "Grid & Colors"
@@ -31,8 +31,8 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Projects"
+  url: "/projects/"
   side: left
   dropdown:
   - title: "Header with Full-Width-Image"
