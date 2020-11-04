@@ -49,7 +49,10 @@
   #   url: "/design/no-header/"
    #- title: "No Header but Image"
     # url: "/design/no-header-but-image/"
-
+- title: Teaching
+  url: "/teaching/"
+  side: left
+ 
 - title: outreach
   url: "/outreach/"
   side: left
