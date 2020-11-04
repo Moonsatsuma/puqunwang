@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: About
+  url: "/about/"
   side: left
 
 - title: "Publications"
@@ -50,8 +50,8 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: outreach
+  url: "/outreach/"
   side: left
   dropdown:
   - title: "Changelog"
