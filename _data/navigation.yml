@@ -39,9 +39,9 @@
   side: left
   dropdown:
   - title: "Passivated contacts"
-    url: "/design/header-full-width-image/"
+    url: "/passivated-contacts/"
   - title: "Nanostructures"
-    url: "/design/header-image-pattern/"
+    url: "/nanostructure/"
    #- title: "Header with image and color"
   #   url: "/design/header-image-color/"
    #- title: "Header Only With Logo"
