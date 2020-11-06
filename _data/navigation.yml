@@ -5,9 +5,12 @@
 - title: About
   url: "/about/"
   side: left
+  dropdown:
+  -title: "CV"
+  url: "/cv/"
 
 - title: "Publications"
-  url: "/publications/"
+  url: "/publication/"
   side: left
  # dropdown:
   #- title: "Grid & Colors"
