@@ -6,12 +6,13 @@ teaser: "After my PhD, I worked on the concept of passivated contacts for high e
 header:
    image_fullwidth: "header_unsplash_5.jpg"
    
+
+---
 # biPoly
 
 # TOPCon tunnel-IBC
 
 permalink: "/passivated-contacts/"
----
 <ul>
     {% for post in site.tags.header %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
