@@ -5,7 +5,7 @@ title: "How to survive your PhD"
 subheadline: "Outreach"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+permalink: "/phd/"
 ---
 <ul>
     {% for post in site.categories.design %}
