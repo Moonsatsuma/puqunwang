@@ -84,13 +84,13 @@ language: 'en'
 
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  profile: false
-  ignore:
-    envs: [development]
+#compress_html:
+ # clippings: all
+ # comments: ["<!-- ", " -->"]
+ # endings: all
+#profile: false
+ # ignore:
+  #  envs: [development]
 
 
 #
@@ -104,14 +104,14 @@ compress_html:
 
 defaults:
   -
-  #  scope:
-    #  path: '' 				# an empty string here means all files in the project
-  #    type: 'pages'
-   # values:
-   #   show_meta: false 	# Hide metadata for all pages
+  scope:
+     path: '' 				# an empty string here means all files in the project
+     type: 'pages'
+  values:
+     show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
-    #  comments: false
-   #   author: phlow     # Default author for pages
+     comments: false
+     author: phlow     # Default author for pages
   -
     scope:
       path: ''
