@@ -3,7 +3,7 @@ layout: full-width
 title: "Publications list"
 
 header:
-    image_fullwidth: "publication-header.jpg"
+    image_fullwidth: "publications-header.jpg"
    
 permalink: "/publication/"
 ---
