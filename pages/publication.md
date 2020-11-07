@@ -1,5 +1,5 @@
 ---
-layout: full-width
+layout: page-fullwidth
 title: "Publications list"
 
 header:
