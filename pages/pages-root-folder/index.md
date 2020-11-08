@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Publications"
   url: 'http://moonsatsuma.github.io/puqunwang/publication/'
-  image:
+  image: publications-header.jpg
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 
 widget3:
