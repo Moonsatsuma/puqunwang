@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Publications list"
 
 header:
-    image_fullwidth: header_unsplash_leaf.jpg
+    image_fullwidth: publications-header.jpg
 
 permalink: "/publication/"
 ---
