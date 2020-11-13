@@ -31,8 +31,9 @@ If you don't want to show metadata, it's simple again:
 show_meta: false
 ~~~
 
-# 先定一个小目标
-# 从他人那里得到反馈
+## 先定一个小目标
+## 从他人那里得到反馈
+## 重温领域发展史
 
 ## Other Post Formats
 {: .t60 }
