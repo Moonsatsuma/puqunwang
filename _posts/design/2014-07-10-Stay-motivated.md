@@ -30,7 +30,7 @@ If you don't want to show metadata, it's simple again:
 ~~~
 show_meta: false
 ~~~
-
+## Have a mindset of growth
 ## 先定一个小目标
 ## 从他人那里得到反馈
 ## 重温领域发展史
