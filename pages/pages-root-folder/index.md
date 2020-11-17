@@ -16,13 +16,13 @@ widget2:
   title: "Publications"
   url: 'http://moonsatsuma.github.io/puqunwang/publication/'
   image: publications-header.jpg
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: 'Find out more about my publications.' 
 
 widget3:
   title: "How to survive you Ph.D?"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: 
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: 'Personal reflections on how to survive a PhD'
 #
 # Use the call for action to show a button on the frontpage
 #
