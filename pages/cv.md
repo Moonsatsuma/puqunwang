@@ -5,7 +5,7 @@ subheadline: "About"
 teaser: "Here is a brief introduction of myself"
 header:
    image_fullwidth: "header_roadmap_3.jpg"
-permalink: "/about/"
+permalink: "/cv/"
 ---
 
 ## About myself
