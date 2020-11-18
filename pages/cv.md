@@ -14,4 +14,4 @@ My name is Puqun Wang. I was trained in Materials Sciences and Engineering and w
 The year 2020 is a transition year for me, and probably so for a lot of people. After working in the field for 8 years, I developed an urge to move to the next stage of my career. Compared to "me" eight years ago, I am definitely more mature, both academically and personally. I also lost the excitement of learning when I began my Ph.D studies. I also want "meaning" now. 
 
 ## About the site
-When I look back from this point, the way that I developed from a Ph.D student to a young researcher is probably not different from others. However, I have been lonly and could only see "me" along the way. 
+When I look back from this point, the way that I developed from a Ph.D student to a young researcher is probably not different from others. However, I have been lonly and could only see "me" along the way. I wished that someone has shared their feelings with me in the past years.
