@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "CV"
 subheadline: "About"
 teaser: "Here is a brief introduction of myself"
 header:
