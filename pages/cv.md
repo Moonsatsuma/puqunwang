@@ -15,4 +15,4 @@ The year 2020 is a transition year for me, and probably so for a lot of people. 
 
 大家好，我是一个在新加坡生活的中国人。大学时的专业是材料科学与工程。毕业以后我接着读了一个博士，课题是太阳能电池。
 ## About the site
-When I look back from this point, the way that I developed from a Ph.D student to a young researcher is probably not different from others. However, I have been lonly and could only see "me" along the way. I wished that someone has shared their feelings with me in the past years.
+When I look back from this point, the way that I developed from a Ph.D student to a young researcher is probably not different from others. However, I have been lonely and could only see "me" along the way. I wished that someone has shared their personal feelings with me in the past years. So I decided to start a site and write down my experiences and struggles during my Ph.D years and as a young researcher now. 
