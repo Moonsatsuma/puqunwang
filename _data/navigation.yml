@@ -1,15 +1,15 @@
-- title: Start
+- title: Start|开始
   url: "/"
   side: left
 
-- title: About
+- title: About|关于
   url: "/about/"
   side: left
   dropdown:
   -title: "CV"
   url: "/cv/"
 
-- title: "Publications"
+- title: "Publications|发表"
   url: "/publication/"
   side: left
  # dropdown:
@@ -34,11 +34,11 @@
    #- title: "Portfolio"
    #  url: "/design/portfolio/"
 
-- title: "Projects"
+- title: "Projects|项目"
   url: "/projects/"
   side: left
   dropdown:
-  - title: "Passivated contacts"
+  - title: "Passivated contacts|钝化接触"
     url: "/passivated-contacts/"
   - title: "Nanostructures"
     url: "/nanostructure/"
@@ -52,11 +52,11 @@
   #   url: "/design/no-header/"
    #- title: "No Header but Image"
     # url: "/design/no-header-but-image/"
-- title: Teaching
+- title: Teaching|教学
   url: "/teaching/"
   side: left
  
-- title: outreach
+- title: outreach|外延
   url: "/outreach/"
   side: left
   dropdown:
@@ -72,10 +72,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Search|搜索"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Contact|联系"
   url: "/contact/"
   side: right
