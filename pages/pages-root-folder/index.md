@@ -11,7 +11,7 @@ widget1:
   title: "About"
   url: 'http://moonsatsuma.github.io/puqunwang/cv/'
   #image: widget-1-302x182.jpg
-  text: 'Here lists the projects I am currently interested in.'
+  text: 'A brief introduction about myself and the site.'
 widget2:
   title: "Publications"
   url: 'http://moonsatsuma.github.io/puqunwang/publication/'
