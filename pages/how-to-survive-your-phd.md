@@ -16,6 +16,8 @@ permalink: "/phd/"
 ### What do I expect from a fresh Ph.D student?
 ### Conducting a literature review
 ### How to make a good presentation?
+### First paper of a Ph.D student
+### Find your Ph.D support group
 
 
 
