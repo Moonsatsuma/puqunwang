@@ -8,7 +8,7 @@ header:
 permalink: "/phd/"
 ---
 
-### Table of Contents
+
 *  Auto generated table of contents
 {:toc}
 ### Should I get a Ph.D?
@@ -18,6 +18,8 @@ permalink: "/phd/"
 ### How to make a good presentation?
 ### First paper of a Ph.D student
 ### Find your Ph.D support group
+### How to take smart notes?
+
 
 
 
