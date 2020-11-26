@@ -52,7 +52,7 @@
   #   url: "/design/no-header/"
    #- title: "No Header but Image"
     # url: "/design/no-header-but-image/"
-- title: Teaching|教学
+- title: Teaching | 教学
   url: "/teaching/"
   side: left
  
@@ -65,7 +65,7 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: Blog | 博客
   url: "/blog/"
   side: left
   dropdown:
