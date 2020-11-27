@@ -20,7 +20,7 @@ widget2:
 
 widget3:
   title: "How to survive you Ph.D?"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'https://moonsatsuma.github.io/puqunwang/p/'
   image: 
   text: 'Personal reflections on how to survive a PhD'
 #
