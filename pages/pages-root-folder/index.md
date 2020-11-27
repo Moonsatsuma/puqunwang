@@ -10,7 +10,7 @@ header:
 widget1:
   title: "About"
   url: 'http://moonsatsuma.github.io/puqunwang/cv/'
-  #image: widget-1-302x182.jpg
+  image: widget-1-302x182.jpg
   text: 'A brief introduction about myself and the site.'
 widget2:
   title: "Publications"
@@ -22,7 +22,7 @@ widget3:
   title: "How to survive you Ph.D?"
   url: 'https://moonsatsuma.github.io/puqunwang/phd/'
   image: 
-  text: 'Personal reflections on how to survive a PhD'
+  text: 'Personal reflections on how to survive a PhD.'
 #
 # Use the call for action to show a button on the frontpage
 #
