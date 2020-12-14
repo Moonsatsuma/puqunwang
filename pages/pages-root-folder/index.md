@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "How to survive you Ph.D?"
   url: 'https://moonsatsuma.github.io/puqunwang/phd/'
-  image: 
+  image: thinking.jpeg
   text: 'Personal reflections on how to survive a PhD.'
 #
 # Use the call for action to show a button on the frontpage
