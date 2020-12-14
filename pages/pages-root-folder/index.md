@@ -10,8 +10,8 @@ header:
 widget1:
   title: "About"
   url: 'http://moonsatsuma.github.io/puqunwang/cv/'
- # image: widget-1-302x182.jpg
-  image: publications-header.jpg
+  image: widget-1-302x182.jpg
+  
   text: 'A brief introduction about myself and the site.'
 widget2:
   title: "Publications"
