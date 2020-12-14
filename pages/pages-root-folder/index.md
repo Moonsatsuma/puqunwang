@@ -8,19 +8,19 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "About"
+  title: "About/关于"
   url: 'http://moonsatsuma.github.io/puqunwang/cv/'
   image: widget-1-302x182.jpg
   
   text: 'A brief introduction about myself and the site.'
 widget2:
-  title: "Publications"
+  title: "Publications/发表"
   url: 'http://moonsatsuma.github.io/puqunwang/publication/'
   image: publications-header.jpg
   text: 'Find out more about my publications.' 
 
 widget3:
-  title: "How to survive you Ph.D?"
+  title: "How to survive you Ph.D?/读博指南"
   url: 'https://moonsatsuma.github.io/puqunwang/phd/'
   image: thinking.jpeg
   text: 'Personal reflections on how to survive a PhD.'
